@@ -1,2 +1,3 @@
 # Project
-Shopping List Using Python
+Shopping List Application Using Python 
+
